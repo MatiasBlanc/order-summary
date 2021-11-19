@@ -11,7 +11,7 @@ body {
     box-sizing: border-box;
     padding: 0 40px;
     font-family: 'Red Hat Display', sans-serif;
-    background: hsl(225, 100%, 94%) url(../images/pattern-background-desktop.svg) no-repeat;
+    background: hsl(225, 100%, 94%) url(./images/pattern-background-desktop.svg) no-repeat;
     background-size: contain;
 }
 
